@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CV/.idea/CV.iml" filepath="$PROJECT_DIR$/CV/.idea/CV.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DivToTextarea/.idea/DivToTextarea.iml" filepath="$PROJECT_DIR$/DivToTextarea/.idea/DivToTextarea.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ImageGallery/.idea/ImageGallery.iml" filepath="$PROJECT_DIR$/ImageGallery/.idea/ImageGallery.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaScript.iml" filepath="$PROJECT_DIR$/.idea/JavaScript.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ModalForm/.idea/ModalForm.iml" filepath="$PROJECT_DIR$/ModalForm/.idea/ModalForm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Blog.iml" filepath="$PROJECT_DIR$/.idea/Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaScript/CV/.idea/CV.iml" filepath="$PROJECT_DIR$/../../JavaScript/CV/.idea/CV.iml" />
     </modules>
   </component>
 </project>
